@@ -1,0 +1,23 @@
+{
+  "name": "testnode",
+  "version": "0.0.0",
+  "description": "this is a test with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnBaqueroCelis/testnode.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "John Baquero Celis",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/JohnBaqueroCelis/testnode/issues"
+  },
+  "homepage": "https://github.com/JohnBaqueroCelis/testnode"
+}
