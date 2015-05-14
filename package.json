@@ -22,6 +22,7 @@
   "homepage": "https://github.com/JohnBaqueroCelis/testnode",
   "dependencies": {
     "express": "~4.12.3",
-    "socket.io": "~1.3.5"
+    "socket.io": "~1.3.5",
+    "swig": "~1.4.2"
   }
 }
