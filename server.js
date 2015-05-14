@@ -6,6 +6,6 @@ server.get('/', function (req, res) {
 	res.send('Hey! This is Express with Socket.io :)')
 })
 
-server.listen(3000, function () {
-	console.log('Server running --> http://localhost:3000')
+server.listen(28386, function () {
+	console.log('Server running --> http://localhost:28386')
 })
